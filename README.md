@@ -12,7 +12,4 @@ Some notebook materials were reused with permission from the original author.
 
 
 
-Original repository:
-
-https://github.com/asha-047/23102A0032\_R-PROGRAMMING
 
